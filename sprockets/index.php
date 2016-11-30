@@ -1,0 +1,7 @@
+<?php include 'includes/config.php'; ?>
+<?php include 'includes/header.php'; ?>
+		<h1>This is the Main Page!</h1> 
+	    <p>Donec vestibulum nisi ac lectus scelerisque mollis. Nulla enim ante, viverra eu dapibus eget, lacinia sit amet ex. Etiam egestas eros sit amet libero cursus, eu tincidunt urna volutpat. Vivamus sagittis elementum risus, et iaculis erat scelerisque nec. Curabitur non urna lobortis, sodales magna sit amet, vulputate lorem. Aliquam semper nulla justo. Nulla tristique vulputate finibus.</p>
+        <p>Pellentesque ultricies sapien purus, vel pretium magna molestie sed. Nullam rhoncus ante ut sem porttitor feugiat. Quisque dictum neque gravida interdum dictum. Maecenas pellentesque vel diam sit amet aliquet. Donec gravida pharetra vehicula. Etiam condimentum, nunc in tempus gravida, enim odio mollis nisi, ut blandit tellus nibh id diam. Suspendisse ullamcorper finibus erat, a maximus metus dapibus ut.</p>
+        <p>Ut quam eros, dictum vel eleifend sit amet, ultricies et nunc. Fusce ultricies in turpis eget pharetra. Mauris non nulla facilisis, ullamcorper est a, luctus nunc. Donec aliquam turpis id venenatis facilisis. Sed consectetur leo velit, ac elementum ex vulputate sed. Vivamus egestas, lectus bibendum mattis commodo, mauris ante convallis metus, sit amet bibendum tortor nisi non magna. Donec tempor risus eu nisi dignissim, in ullamcorper enim pulvinar.</p>
+<?php include 'includes/footer.php'; ?>
